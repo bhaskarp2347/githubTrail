@@ -1,1 +1,1 @@
-console.log('my first commit');
+console.log('my first commit feature 1 changed');
