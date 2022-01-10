@@ -1,3 +1,3 @@
 console.log('feature 1 added to the project')
 
-console.log("some change in feature 1 ")
+console.log("fix in feature 1 ")
